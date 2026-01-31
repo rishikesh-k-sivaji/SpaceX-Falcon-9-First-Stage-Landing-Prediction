@@ -50,12 +50,19 @@ Machine Learning Pipeline
 The project follows a complete data science workflow:
 
 1️⃣ Data Collection (API + Web Scraping)
+
 2️⃣ Data Wrangling & Cleaning
+
 3️⃣ Exploratory Data Analysis (EDA)
+
 4️⃣ Feature Engineering
+
 5️⃣ Data Visualization
+
 6️⃣ Model Building
+
 7️⃣ Model Evaluation & Comparison
+
 
  Models Used
  ===========
@@ -68,7 +75,8 @@ Decision Tree Classifier
 
 K-Nearest Neighbors (KNN)
 
-Evaluation Metrics:
+Evaluation Metrics
+==================
 
 Accuracy
 
